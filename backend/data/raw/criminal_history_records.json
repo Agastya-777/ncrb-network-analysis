@@ -1,0 +1,280 @@
+[
+  {
+    "person_name": "Vikram Patel",
+    "dob": "1988-04-12",
+    "aadhaar_masked": "XXXX-XXXX-5678",
+    "phone": "9876543210",
+    "prior_cases": [
+      {
+        "fir": "FIR/2019/DEL/00321",
+        "section": "420 IPC",
+        "status": "Acquitted",
+        "year": 2019
+      },
+      {
+        "fir": "FIR/2021/UP/00654",
+        "section": "370 IPC",
+        "status": "Under Trial",
+        "year": 2021
+      }
+    ],
+    "blacklist_status": "Watch List",
+    "notes": "Known associate of Anil Kumar. Previous involvement in fraud case (acquitted). Currently under investigation for trafficking (FIR/2024/DEL/00123, FIR/2024/UP/00789)."
+  },
+  {
+    "person_name": "Anil Kumar",
+    "dob": "1992-11-03",
+    "aadhaar_masked": "XXXX-XXXX-9012",
+    "phone": "9876543211",
+    "prior_cases": [
+      {
+        "fir": "FIR/2020/RAJ/00112",
+        "section": "366 IPC",
+        "status": "Convicted (2 yr)",
+        "year": 2020
+      }
+    ],
+    "blacklist_status": "Active Offender",
+    "notes": "Previously convicted for kidnapping. Linked to Vikram Patel through shared WhatsApp group and phone records."
+  },
+  {
+    "person_name": "Ravi Sharma",
+    "dob": "1985-07-19",
+    "aadhaar_masked": "XXXX-XXXX-3456",
+    "phone": "9876543214",
+    "prior_cases": [
+      {
+        "fir": "FIR/2022/MH/00887",
+        "section": "420, 120B IPC",
+        "status": "Acquitted",
+        "year": 2022
+      }
+    ],
+    "blacklist_status": "Watch List",
+    "notes": "Known financial associate of Vikram Patel. Previous fraud case acquittal. Linked to circular transfer pattern with Sunita Devi and Kavita Gupta."
+  },
+  {
+    "person_name": "Veda Shetty",
+    "dob": "1974-08-14",
+    "aadhaar_masked": "XXXX-XXXX-7818",
+    "phone": "9255562588153",
+    "prior_cases": [],
+    "blacklist_status": "Clear",
+    "notes": ""
+  },
+  {
+    "person_name": "Jason Loke",
+    "dob": "1991-04-30",
+    "aadhaar_masked": "XXXX-XXXX-8253",
+    "phone": "2104696325953",
+    "prior_cases": [],
+    "blacklist_status": "Clear",
+    "notes": ""
+  },
+  {
+    "person_name": "Wishi Varma",
+    "dob": "1992-07-01",
+    "aadhaar_masked": "XXXX-XXXX-8699",
+    "phone": "4701687339500",
+    "prior_cases": [
+      {
+        "fir": "FIR/2015/KA/1725",
+        "section": "490 IPC",
+        "status": "Acquitted",
+        "year": 2018
+      },
+      {
+        "fir": "FIR/2019/TN/1430",
+        "section": "180 IPC",
+        "status": "Acquitted",
+        "year": 2017
+      },
+      {
+        "fir": "FIR/2023/DL/2664",
+        "section": "101 IPC",
+        "status": "Discharged",
+        "year": 2022
+      }
+    ],
+    "blacklist_status": "Clear",
+    "notes": ""
+  },
+  {
+    "person_name": "Warda Singhal",
+    "dob": "1980-03-06",
+    "aadhaar_masked": "XXXX-XXXX-6039",
+    "phone": "1624565060983",
+    "prior_cases": [
+      {
+        "fir": "FIR/2019/TN/7538",
+        "section": "136 IPC",
+        "status": "Acquitted",
+        "year": 2019
+      },
+      {
+        "fir": "FIR/2018/RJ/1980",
+        "section": "378 IPC",
+        "status": "Acquitted",
+        "year": 2017
+      },
+      {
+        "fir": "FIR/2019/WB/2430",
+        "section": "136 IPC",
+        "status": "Convicted",
+        "year": 2017
+      }
+    ],
+    "blacklist_status": "Clear",
+    "notes": ""
+  },
+  {
+    "person_name": "Bhavya Borah",
+    "dob": "1987-01-09",
+    "aadhaar_masked": "XXXX-XXXX-1659",
+    "phone": "8499121655852",
+    "prior_cases": [
+      {
+        "fir": "FIR/2019/TN/6694",
+        "section": "239 IPC",
+        "status": "Discharged",
+        "year": 2022
+      },
+      {
+        "fir": "FIR/2016/KA/0753",
+        "section": "321 IPC",
+        "status": "Under Trial",
+        "year": 2019
+      },
+      {
+        "fir": "FIR/2015/DL/3850",
+        "section": "445 IPC",
+        "status": "Convicted",
+        "year": 2019
+      }
+    ],
+    "blacklist_status": "Clear",
+    "notes": ""
+  },
+  {
+    "person_name": "Yashodhara Ratti",
+    "dob": "1994-10-06",
+    "aadhaar_masked": "XXXX-XXXX-8245",
+    "phone": "0025787298259",
+    "prior_cases": [],
+    "blacklist_status": "Clear",
+    "notes": "No adverse findings"
+  },
+  {
+    "person_name": "Nicholas Ramaswamy",
+    "dob": "2002-09-08",
+    "aadhaar_masked": "XXXX-XXXX-8141",
+    "phone": "9588879470551",
+    "prior_cases": [],
+    "blacklist_status": "Watch List",
+    "notes": ""
+  },
+  {
+    "person_name": "Darika Bala",
+    "dob": "2001-05-09",
+    "aadhaar_masked": "XXXX-XXXX-7690",
+    "phone": "4993097289623",
+    "prior_cases": [],
+    "blacklist_status": "Clear",
+    "notes": "Flagged for verification"
+  },
+  {
+    "person_name": "Imaran Halder",
+    "dob": "1962-01-08",
+    "aadhaar_masked": "XXXX-XXXX-3634",
+    "phone": "5626368970283",
+    "prior_cases": [],
+    "blacklist_status": "Clear",
+    "notes": ""
+  },
+  {
+    "person_name": "Vanya Vora",
+    "dob": "1986-05-18",
+    "aadhaar_masked": "XXXX-XXXX-5722",
+    "phone": "2785854973348",
+    "prior_cases": [],
+    "blacklist_status": "Watch List",
+    "notes": ""
+  },
+  {
+    "person_name": "Umang Mishra",
+    "dob": "1980-05-26",
+    "aadhaar_masked": "XXXX-XXXX-6153",
+    "phone": "7575844198665",
+    "prior_cases": [],
+    "blacklist_status": "Clear",
+    "notes": "Flagged for verification"
+  },
+  {
+    "person_name": "Bina Basak",
+    "dob": "1980-04-22",
+    "aadhaar_masked": "XXXX-XXXX-1845",
+    "phone": "5747338484219",
+    "prior_cases": [
+      {
+        "fir": "FIR/2023/WB/0118",
+        "section": "436 IPC",
+        "status": "Discharged",
+        "year": 2021
+      },
+      {
+        "fir": "FIR/2015/MH/8594",
+        "section": "285 IPC",
+        "status": "Discharged",
+        "year": 2022
+      }
+    ],
+    "blacklist_status": "Clear",
+    "notes": "Flagged for verification"
+  },
+  {
+    "person_name": "Xavier Bedi",
+    "dob": "2006-04-25",
+    "aadhaar_masked": "XXXX-XXXX-5719",
+    "phone": "3016571208267",
+    "prior_cases": [],
+    "blacklist_status": "Watch List",
+    "notes": ""
+  },
+  {
+    "person_name": "Ryan Mani",
+    "dob": "1982-08-03",
+    "aadhaar_masked": "XXXX-XXXX-8905",
+    "phone": "0193802620672",
+    "prior_cases": [
+      {
+        "fir": "FIR/2018/TN/2694",
+        "section": "259 IPC",
+        "status": "Convicted",
+        "year": 2023
+      },
+      {
+        "fir": "FIR/2021/DL/3781",
+        "section": "158 IPC",
+        "status": "Discharged",
+        "year": 2016
+      },
+      {
+        "fir": "FIR/2017/RJ/4881",
+        "section": "360 IPC",
+        "status": "Under Trial",
+        "year": 2021
+      }
+    ],
+    "blacklist_status": "Watch List",
+    "notes": "No adverse findings"
+  },
+  {
+    "person_name": "Baljiwan Andra",
+    "dob": "1981-01-14",
+    "aadhaar_masked": "XXXX-XXXX-3369",
+    "phone": "5478872874315",
+    "prior_cases": [],
+    "blacklist_status": "Watch List",
+    "notes": "No adverse findings"
+  }
+]

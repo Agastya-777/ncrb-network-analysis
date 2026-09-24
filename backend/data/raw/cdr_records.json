@@ -1,0 +1,252 @@
+[
+  {
+    "caller": "9876543210",
+    "callee": "9876543211",
+    "timestamp": "2024-03-10T09:15:00",
+    "duration_sec": 245,
+    "cell_tower_id": "CTR-6413",
+    "imei": "86678884586419475",
+    "call_type": "std",
+    "note": "Vikram-Anil coordination call"
+  },
+  {
+    "caller": "9876543210",
+    "callee": "9876543212",
+    "timestamp": "2024-03-12T14:30:00",
+    "duration_sec": 180,
+    "cell_tower_id": "CTR-5562",
+    "imei": "86646528871719079",
+    "call_type": "std",
+    "note": "Vikram-Deepak transport planning"
+  },
+  {
+    "caller": "9876543211",
+    "callee": "9876543213",
+    "timestamp": "2024-05-18T08:00:00",
+    "duration_sec": 312,
+    "cell_tower_id": "CTR-9834",
+    "imei": "86914420856877167",
+    "call_type": "outgoing",
+    "note": "Anil-Sunita recruitment update"
+  },
+  {
+    "caller": "9876543210",
+    "callee": "9876543214",
+    "timestamp": "2024-06-01T11:45:00",
+    "duration_sec": 95,
+    "cell_tower_id": "CTR-4981",
+    "imei": "86632523480043935",
+    "call_type": "outgoing",
+    "note": "Vikram-Ravi payment instruction"
+  },
+  {
+    "caller": "9876543214",
+    "callee": "9876543215",
+    "timestamp": "2024-06-05T16:20:00",
+    "duration_sec": 167,
+    "cell_tower_id": "CTR-4119",
+    "imei": "86209131229150292",
+    "call_type": "outgoing",
+    "note": "Ravi-Kavita account setup"
+  },
+  {
+    "caller": "9876543212",
+    "callee": "9876543216",
+    "timestamp": "2024-07-08T07:30:00",
+    "duration_sec": 420,
+    "cell_tower_id": "CTR-6804",
+    "imei": "86562857559844369",
+    "call_type": "outgoing",
+    "note": "Deepak-Mohan logistics"
+  },
+  {
+    "caller": "9876543213",
+    "callee": "9876543210",
+    "timestamp": "2024-07-09T22:10:00",
+    "duration_sec": 88,
+    "cell_tower_id": "CTR-1887",
+    "imei": "86835726494916195",
+    "call_type": "local",
+    "note": "Sunita-Vikram status report"
+  },
+  {
+    "caller": "9876543210",
+    "callee": "9876543216",
+    "timestamp": "2024-07-10T06:00:00",
+    "duration_sec": 55,
+    "cell_tower_id": "CTR-1993",
+    "imei": "86919893806182458",
+    "call_type": "incoming",
+    "note": "Vikram-Mohan final instructions"
+  },
+  {
+    "caller": "9812345601",
+    "callee": "9812345604",
+    "timestamp": "2024-05-20T13:00:00",
+    "duration_sec": 203,
+    "cell_tower_id": "CTR-2790",
+    "imei": "86315711505445124",
+    "call_type": "std",
+    "note": "Alt phone coordination"
+  },
+  {
+    "caller": "9812345602",
+    "callee": "9812345606",
+    "timestamp": "2024-06-10T19:45:00",
+    "duration_sec": 142,
+    "cell_tower_id": "CTR-9786",
+    "imei": "86257829090006653",
+    "call_type": "outgoing",
+    "note": "Alt phone Anil-Kavita"
+  },
+  {
+    "caller": "0365414586850",
+    "callee": "4294019655698",
+    "timestamp": "2023-05-23T12:27:53",
+    "duration_sec": 295,
+    "cell_tower_id": "CTR-8579",
+    "imei": "86184876814131836",
+    "call_type": "outgoing",
+    "note": ""
+  },
+  {
+    "caller": "6934060883561",
+    "callee": "9514846564823",
+    "timestamp": "2024-09-19T14:37:34",
+    "duration_sec": 892,
+    "cell_tower_id": "CTR-2604",
+    "imei": "86834246351362904",
+    "call_type": "local",
+    "note": ""
+  },
+  {
+    "caller": "6299468044369",
+    "callee": "7773872148951",
+    "timestamp": "2023-03-14T10:32:38",
+    "duration_sec": 781,
+    "cell_tower_id": "CTR-4872",
+    "imei": "86557582235049314",
+    "call_type": "outgoing",
+    "note": ""
+  },
+  {
+    "caller": "4332003791769",
+    "callee": "6763201632870",
+    "timestamp": "2024-01-09T21:10:16",
+    "duration_sec": 228,
+    "cell_tower_id": "CTR-7570",
+    "imei": "86166017523302132",
+    "call_type": "std",
+    "note": ""
+  },
+  {
+    "caller": "1727889579868",
+    "callee": "2774348734714",
+    "timestamp": "2023-10-22T08:34:15",
+    "duration_sec": 12,
+    "cell_tower_id": "CTR-7396",
+    "imei": "86983976356551110",
+    "call_type": "outgoing",
+    "note": ""
+  },
+  {
+    "caller": "4558122362316",
+    "callee": "5876036690967",
+    "timestamp": "2023-08-10T13:25:51",
+    "duration_sec": 443,
+    "cell_tower_id": "CTR-8973",
+    "imei": "86313804136842199",
+    "call_type": "incoming",
+    "note": ""
+  },
+  {
+    "caller": "5466889373467",
+    "callee": "6562729806990",
+    "timestamp": "2023-06-19T02:14:19",
+    "duration_sec": 69,
+    "cell_tower_id": "CTR-9883",
+    "imei": "86942144564308555",
+    "call_type": "incoming",
+    "note": ""
+  },
+  {
+    "caller": "6272046537556",
+    "callee": "6417080531003",
+    "timestamp": "2023-02-14T09:38:16",
+    "duration_sec": 61,
+    "cell_tower_id": "CTR-8811",
+    "imei": "86697996253993418",
+    "call_type": "std",
+    "note": ""
+  },
+  {
+    "caller": "0923271937452",
+    "callee": "2419049663193",
+    "timestamp": "2023-02-14T04:18:43",
+    "duration_sec": 530,
+    "cell_tower_id": "CTR-2312",
+    "imei": "86309220103411152",
+    "call_type": "local",
+    "note": ""
+  },
+  {
+    "caller": "4919058651850",
+    "callee": "7165726284987",
+    "timestamp": "2024-04-07T04:15:30",
+    "duration_sec": 79,
+    "cell_tower_id": "CTR-4853",
+    "imei": "86234979671414191",
+    "call_type": "std",
+    "note": ""
+  },
+  {
+    "caller": "6945314737996",
+    "callee": "0752735454948",
+    "timestamp": "2024-03-25T15:50:00",
+    "duration_sec": 618,
+    "cell_tower_id": "CTR-1651",
+    "imei": "86192305802381669",
+    "call_type": "outgoing",
+    "note": ""
+  },
+  {
+    "caller": "8313678377701",
+    "callee": "3634957885685",
+    "timestamp": "2024-05-25T14:19:26",
+    "duration_sec": 607,
+    "cell_tower_id": "CTR-9565",
+    "imei": "86329975143844450",
+    "call_type": "incoming",
+    "note": ""
+  },
+  {
+    "caller": "7444313518233",
+    "callee": "4989413435240",
+    "timestamp": "2023-07-05T09:25:43",
+    "duration_sec": 281,
+    "cell_tower_id": "CTR-7484",
+    "imei": "86856254108630309",
+    "call_type": "incoming",
+    "note": ""
+  },
+  {
+    "caller": "4008427109477",
+    "callee": "5204711671902",
+    "timestamp": "2023-12-22T03:17:01",
+    "duration_sec": 333,
+    "cell_tower_id": "CTR-2188",
+    "imei": "86615980231081843",
+    "call_type": "local",
+    "note": ""
+  },
+  {
+    "caller": "9413186999386",
+    "callee": "7496499091334",
+    "timestamp": "2023-02-26T21:40:43",
+    "duration_sec": 560,
+    "cell_tower_id": "CTR-4492",
+    "imei": "86398588299176140",
+    "call_type": "std",
+    "note": ""
+  }
+]

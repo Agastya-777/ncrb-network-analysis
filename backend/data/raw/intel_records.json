@@ -1,0 +1,278 @@
+[
+  {
+    "report_id": "IB/DEL/2024/INT-001",
+    "date": "2024-04-15",
+    "classification": "Confidential",
+    "source_agency": "Delhi Police AHTU",
+    "analyst": "Insp. Rajesh Verma",
+    "title": "Organized Trafficking Network — Delhi-Lucknow-Jaipur Corridor",
+    "narrative": "Intelligence indicates an organized trafficking network operating between Delhi, Lucknow, and Jaipur. Key operatives identified: Vikram Patel (Delhi, 9876543210) —疑似ringleader; Anil Kumar (Jaipur, 9876543211) — recruiter; Deepak Singh (Lucknow, 9876543212) — transporter. Financial trail shows regular transfers between linked accounts. Ring uses multiple phone numbers and burner phones. Victims are predominantly young women from economically weaker sections. Estimated operational period: January 2024 onwards.",
+    "linked_firs": [
+      "FIR/2024/DEL/00123",
+      "FIR/2024/RAJ/00456",
+      "FIR/2024/UP/00789"
+    ],
+    "linked_phones": [
+      "9876543210",
+      "9876543211",
+      "9876543212",
+      "9876543213",
+      "9876543214",
+      "9876543215",
+      "9876543216"
+    ]
+  },
+  {
+    "report_id": "IB/DEL/2024/INT-002",
+    "date": "2024-06-12",
+    "classification": "Confidential",
+    "source_agency": "Delhi Police AHTU / Financial Intelligence Unit",
+    "analyst": "ASI Priya Nair",
+    "title": "Financial Modus Operandi — Sub-threshold Structuring",
+    "narrative": "Analysis of financial transactions linked to Vikram Patel (HDFC-XXXX-1122) and associates reveals systematic structuring of transfers below ₹2,00,000 to avoid mandatory CTR filing. Five transfers between June 1-9, 2024, totalling ₹9,38,000, were routed through multiple accounts controlled by ring members. Additionally, a circular transfer pattern identified: Sunita Devi → Ravi Sharma → Kavita Gupta → Sunita Devi (₹3.5L → ₹2.8L → ₹3.1L). This pattern suggests layering of illicit funds.",
+    "linked_accounts": [
+      "HDFC-XXXX-1122",
+      "ICICI-XXXX-5566",
+      "SBI-XXXX-3344",
+      "Axis-XXXX-7788",
+      "HDFC-XXXX-9900",
+      "SBI-XXXX-1123",
+      "PNB-XXXX-6677"
+    ],
+    "linked_phones": []
+  },
+  {
+    "report_id": "IB/UP/2024/INT-003",
+    "date": "2024-07-11",
+    "classification": "Restricted",
+    "source_agency": "UP AHTU / SOT",
+    "analyst": "Insp. Amit Tripathi",
+    "title": "Post-Raid Assessment — Lucknow Warehouse Operation",
+    "narrative": "Following the raid on Plot 47, Industrial Area, Lucknow on 08/07/2024 (ref FIR/2024/UP/00789), further analysis reveals the warehouse was rented by Deepak Singh (9876543212) using a fake ID. Financial records show rent of ₹25,000/month paid from Axis-XXXX-7788. Phone records indicate coordination with Vikram Patel and Mohan Yadav. Mohan Yadav (9876543216) was identified from surveillance as the person who loaded victims into vehicles. Victims rescued: 4 (2 minors). All from Rajasthan and UP.",
+    "linked_firs": [
+      "FIR/2024/UP/00789"
+    ],
+    "linked_phones": [
+      "9876543212",
+      "9876543210",
+      "9876543216"
+    ]
+  },
+  {
+    "report_id": "IB/KA/2024/INT-620",
+    "date": "2023-05-20",
+    "classification": "Confidential",
+    "source_agency": "UP STF",
+    "analyst": "Insp. Tara Kurian",
+    "title": "Accusamus excepturi eos perferendis.",
+    "narrative": "Nostrum odit illo incidunt. Assumenda pariatur delectus consequuntur eum dolorum. Phone records indicate communication with 6374549904530. Financial trail shows transfer of ₹497,958 on 2024-02-29. Further investigation recommended.",
+    "linked_firs": [
+      "FIR/2024/UP/9318"
+    ],
+    "linked_phones": [
+      "7426841459332",
+      "2795687833918",
+      "8519108839822"
+    ]
+  },
+  {
+    "report_id": "IB/DL/2024/INT-389",
+    "date": "2023-11-02",
+    "classification": "Unclassified",
+    "source_agency": "NIA",
+    "analyst": "Insp. Zinal Sathe",
+    "title": "Perspiciatis quaerat laborum tempore.",
+    "narrative": "Iste maiores itaque animi. Perferendis est accusantium ducimus a dolor asperiores. Exercitationem aperiam voluptatibus vel architecto ut. Phone records indicate communication with 4622656766182. Financial trail shows transfer of ₹306,712 on 2023-06-02. Further investigation recommended.",
+    "linked_firs": [
+      "FIR/2024/RJ/9824"
+    ],
+    "linked_phones": [
+      "1286823004786",
+      "3375243106903",
+      "1190790306738",
+      "0284395995342"
+    ]
+  },
+  {
+    "report_id": "IB/UP/2024/INT-440",
+    "date": "2024-07-19",
+    "classification": "Unclassified",
+    "source_agency": "Rajasthan SOG",
+    "analyst": "ASI Odika Mital",
+    "title": "Aperiam veniam sunt tenetur numquam.",
+    "narrative": "Libero voluptas velit perferendis ratione eum impedit. Error delectus modi dolores. Error provident rem totam natus. Phone records indicate communication with 8826343517518. Financial trail shows transfer of ₹218,704 on 2023-07-13. Further investigation recommended.",
+    "linked_firs": [
+      "FIR/2024/MH/7274"
+    ],
+    "linked_phones": [
+      "0469901398373",
+      "4033173936385"
+    ]
+  },
+  {
+    "report_id": "IB/RJ/2024/INT-144",
+    "date": "2023-11-22",
+    "classification": "Unclassified",
+    "source_agency": "Rajasthan SOG",
+    "analyst": "Insp. Lajita Shukla",
+    "title": "Officiis est facere sunt iure rem quam.",
+    "narrative": "Fuga impedit natus dolore corporis. Mollitia nesciunt quam eos deserunt. Fugit rerum libero omnis placeat. Phone records indicate communication with 7772522872808. Financial trail shows transfer of ₹475,411 on 2024-01-26. Further investigation recommended.",
+    "linked_firs": [
+      "FIR/2024/RJ/3492"
+    ],
+    "linked_phones": [
+      "1006231203875",
+      "9977008860084",
+      "0862118233984",
+      "4615679334101"
+    ]
+  },
+  {
+    "report_id": "IB/DL/2024/INT-229",
+    "date": "2024-05-29",
+    "classification": "Unclassified",
+    "source_agency": "UP STF",
+    "analyst": "Insp. Ladli Purohit",
+    "title": "Labore odio praesentium assumenda sapiente officia ex.",
+    "narrative": "Ullam dolorem temporibus porro necessitatibus earum unde. Tempore natus adipisci ut et. Phone records indicate communication with 9261429396856. Financial trail shows transfer of ₹493,044 on 2024-03-26. Further investigation recommended.",
+    "linked_firs": [
+      "FIR/2024/DL/9617"
+    ],
+    "linked_phones": [
+      "1850163159996",
+      "0477358662961",
+      "3114262655110",
+      "7541212678886"
+    ]
+  },
+  {
+    "report_id": "IB/DL/2024/INT-839",
+    "date": "2023-05-28",
+    "classification": "Restricted",
+    "source_agency": "Maharashtra ATS",
+    "analyst": "ASI Atharv Chakraborty",
+    "title": "Mollitia nisi quos sint accusamus impedit.",
+    "narrative": "Temporibus voluptatem nemo cumque fugit consequuntur error. Corporis cumque eius error quos facere velit. Phone records indicate communication with 9937124065965. Financial trail shows transfer of ₹459,744 on 2023-09-29. Further investigation recommended.",
+    "linked_firs": [
+      "FIR/2024/UP/7512"
+    ],
+    "linked_phones": [
+      "5692459375265"
+    ]
+  },
+  {
+    "report_id": "IB/UP/2024/INT-972",
+    "date": "2024-11-21",
+    "classification": "Unclassified",
+    "source_agency": "Rajasthan SOG",
+    "analyst": "Insp. Vritti Kibe",
+    "title": "Fugiat repellendus hic beatae natus nihil.",
+    "narrative": "Placeat mollitia veritatis iure. Ipsa eos possimus reprehenderit recusandae. Perferendis consequuntur esse dolorum culpa incidunt. Phone records indicate communication with 1797968868058. Financial trail shows transfer of ₹378,623 on 2024-05-14. Further investigation recommended.",
+    "linked_firs": [
+      "FIR/2024/DL/2121"
+    ],
+    "linked_phones": [
+      "1352909656101",
+      "3888993756798"
+    ]
+  },
+  {
+    "report_id": "IB/UP/2024/INT-332",
+    "date": "2023-04-03",
+    "classification": "Restricted",
+    "source_agency": "Delhi Police CID",
+    "analyst": "Insp. Hemani Bakshi",
+    "title": "Autem impedit vitae blanditiis velit consequuntur est.",
+    "narrative": "Maxime expedita atque quam iste. Error repellat beatae sed. Perspiciatis cum voluptates doloribus. Phone records indicate communication with 8258673622660. Financial trail shows transfer of ₹419,041 on 2023-04-13. Further investigation recommended.",
+    "linked_firs": [
+      "FIR/2024/RJ/3725"
+    ],
+    "linked_phones": [
+      "7966033419182",
+      "5371478596969",
+      "5579249912513"
+    ]
+  },
+  {
+    "report_id": "IB/DL/2024/INT-147",
+    "date": "2023-11-29",
+    "classification": "Confidential",
+    "source_agency": "UP STF",
+    "analyst": "ASI Jackson Goswami",
+    "title": "Possimus magni in consequuntur fugit delectus.",
+    "narrative": "Mollitia laudantium consequuntur et. Nulla sint veritatis laborum deserunt fugit natus. Illum laudantium quae ipsam cumque natus recusandae. Phone records indicate communication with 4043842797881. Financial trail shows transfer of ₹275,803 on 2023-05-30. Further investigation recommended.",
+    "linked_firs": [
+      "FIR/2024/MH/9702"
+    ],
+    "linked_phones": [
+      "4858078361340",
+      "4517133959629",
+      "3309584982544",
+      "8126042232536"
+    ]
+  },
+  {
+    "report_id": "IB/KA/2024/INT-798",
+    "date": "2023-07-04",
+    "classification": "Confidential",
+    "source_agency": "Maharashtra ATS",
+    "analyst": "ASI Lucky Luthra",
+    "title": "Impedit iste odio sunt at maiores eius vel.",
+    "narrative": "Veniam eveniet a quo quasi quasi itaque. Sed recusandae id voluptas repudiandae libero. Repudiandae excepturi neque necessitatibus laborum exercitationem. Phone records indicate communication with 0170127706324. Financial trail shows transfer of ₹250,563 on 2024-09-26. Further investigation recommended.",
+    "linked_firs": [
+      "FIR/2024/MH/9153"
+    ],
+    "linked_phones": [
+      "4154152064361",
+      "0371293870051"
+    ]
+  },
+  {
+    "report_id": "IB/MH/2024/INT-572",
+    "date": "2024-10-15",
+    "classification": "Restricted",
+    "source_agency": "Rajasthan SOG",
+    "analyst": "ASI Kevin Sridhar",
+    "title": "Dolorem at rem aut.",
+    "narrative": "Consequatur quo quidem consequatur voluptatibus. Architecto natus nostrum cum. Quam occaecati corrupti illum placeat similique. Phone records indicate communication with 1219656523413. Financial trail shows transfer of ₹54,926 on 2024-04-21. Further investigation recommended.",
+    "linked_firs": [
+      "FIR/2024/UP/9955"
+    ],
+    "linked_phones": [
+      "0438983640376",
+      "3791805526965"
+    ]
+  },
+  {
+    "report_id": "IB/DL/2024/INT-552",
+    "date": "2023-12-20",
+    "classification": "Unclassified",
+    "source_agency": "UP STF",
+    "analyst": "Insp. Urishilla Bora",
+    "title": "Nesciunt accusamus dolor.",
+    "narrative": "Magni occaecati magnam impedit praesentium assumenda. Modi corrupti assumenda aspernatur ullam voluptate culpa. Phone records indicate communication with 6914630316179. Financial trail shows transfer of ₹272,460 on 2024-12-07. Further investigation recommended.",
+    "linked_firs": [
+      "FIR/2024/UP/8484"
+    ],
+    "linked_phones": [
+      "4210202758842",
+      "2410564814917",
+      "8507925241913"
+    ]
+  },
+  {
+    "report_id": "IB/MH/2024/INT-493",
+    "date": "2024-05-09",
+    "classification": "Confidential",
+    "source_agency": "Maharashtra ATS",
+    "analyst": "ASI Chaitanya Arora",
+    "title": "Aliquid facilis ullam debitis vero.",
+    "narrative": "Rem quae omnis dolore dolorum totam eum. Phone records indicate communication with 9518023806174. Financial trail shows transfer of ₹238,197 on 2024-08-11. Further investigation recommended.",
+    "linked_firs": [
+      "FIR/2024/UP/5837"
+    ],
+    "linked_phones": [
+      "5187053494937"
+    ]
+  }
+]
