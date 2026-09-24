@@ -1,0 +1,164 @@
+[
+  {
+    "date": "2024-03-20",
+    "time": "14:00-18:30",
+    "location": "Lajpat Nagar, New Delhi",
+    "subject": "Vikram Patel",
+    "description": "Subject observed leaving residence at 14:12. Travelled to Anand Vihar ISBT by auto. Met with unidentified male (described as tall, lean, mustache, age ~30) near platform 4. Both boarded Lucknow-bound bus at 15:45. Tailed but lost at Noida flyover.",
+    "officer": "SI Rajesh Verma, AHTU Delhi",
+    "vehicle_used": "DL-01-AB-1234 (white Swift Dzire)"
+  },
+  {
+    "date": "2024-05-25",
+    "time": "09:00-13:00",
+    "location": "Model Town, Jaipur",
+    "subject": "Anil Kumar",
+    "description": "Subject observed at tea stall near 12, Model Town at 09:15. Received phone call (9876543211) at 09:22, appeared agitated. Met with female (subject Sunita Devi, ref FIR/2024/RAJ/00456) at 10:30. Both walked to auto stand, took shared auto towards station area.",
+    "officer": "Insp. Meena Kumari, Jaipur AHTU",
+    "vehicle_used": "RJ-14-CD-5678 (silver Alto)"
+  },
+  {
+    "date": "2024-07-07",
+    "time": "06:00-12:00",
+    "location": "Industrial Area, Lucknow",
+    "subject": "Deepak Singh",
+    "description": "Subject arrived at warehouse (Plot 47, Industrial Area) at 06:45 in a white Bolero (UP-32-XXXX). Opened rear shutter. Two unknown females and one male seen entering warehouse at 07:30. Subject made call to 9876543210 at 07:42. At 11:00, subject loaded cardboard boxes into vehicle. Followed to Charbagh station.",
+    "officer": "ASI Puneet Singh, UP AHTU",
+    "vehicle_used": "UP-32-EF-9012 (unmarked)"
+  },
+  {
+    "date": "2024-08-16",
+    "time": "15:00-20:28",
+    "location": "97/27\nSule Circle, Thoothukudi 753396, Madhya Pradesh",
+    "subject": "Nirja Bassi",
+    "description": "Subject observed at 66/270\nThakkar Street, Salem 187026 at 09:32. Met unknown individual. Subject appeared to be scanning surroundings.",
+    "officer": "SI Falan Singh, CID Delh",
+    "vehicle_used": "KA-52-CY-4848 (black i20)"
+  },
+  {
+    "date": "2023-07-23",
+    "time": "09:00-06:02",
+    "location": "61/58\nNadig Marg, Hosur 913431, Maharashtra",
+    "subject": "Guneet Chaudhry",
+    "description": "Subject observed at 40/050, Parmer Road, Chinsurah-386922 at 13:39. Travelled by foot. Subject met with 2 unknown persons.",
+    "officer": "Insp. Farhan Raja, Crime Branch Raja",
+    "vehicle_used": "RJ-73-MH-3417 (white Swift)"
+  },
+  {
+    "date": "2024-03-11",
+    "time": "12:00-11:51",
+    "location": "23/74\nKumer Chowk\nKirari Suleman Nagar-821759, Telangana",
+    "subject": "Panini Krishna",
+    "description": "Subject observed at 671\nRaj Ganj, Ramgarh-406409 at 14:29. Travelled by foot. Subject appeared to be scanning surroundings.",
+    "officer": "SI Watika Mangat, AHTU Madh",
+    "vehicle_used": "RJ-95-QR-6198 (red Scorpio)"
+  },
+  {
+    "date": "2024-05-31",
+    "time": "18:00-23:28",
+    "location": "394\nChatterjee Street\nTirupati-095214, Karnataka",
+    "subject": "Ojasvi Gill",
+    "description": "Subject observed at 58/84, Kurian Street\nSagar-171236 at 17:55. Met unknown individual. Subject met with 2 unknown persons.",
+    "officer": "Insp. Gautam Rana, AHTU West",
+    "vehicle_used": "UP-76-PU-4919 (black Bolero)"
+  },
+  {
+    "date": "2023-03-21",
+    "time": "14:00-13:17",
+    "location": "17/54\nRaj\nMoradabad 709859, Madhya Pradesh",
+    "subject": "Dev Shetty",
+    "description": "Subject observed at H.No. 200\nTailor Road, Jalandhar 826758 at 20:34. Travelled by foot. Subject appeared to be scanning surroundings.",
+    "officer": "Insp. Mohammed Sachdeva, CID Biha",
+    "vehicle_used": "MH-18-NN-6421 (red Bolero)"
+  },
+  {
+    "date": "2023-03-05",
+    "time": "11:00-19:24",
+    "location": "64/05\nSawhney Ganj\nNoida 158506, Karnataka",
+    "subject": "Ranveer Das",
+    "description": "Subject observed at 39/005, Dass Ganj, Coimbatore-933529 at 15:44. Travelled by foot. Subject met with 2 unknown persons.",
+    "officer": "Insp. Aradhana Dhillon, CID Maha",
+    "vehicle_used": "RJ-63-RX-9947 (silver Bolero)"
+  },
+  {
+    "date": "2023-08-13",
+    "time": "13:00-19:31",
+    "location": "102\nParmar Nagar\nGiridih-024026, Uttar Pradesh",
+    "subject": "Devansh Soni",
+    "description": "Subject observed at 91/78\nBassi Ganj, Berhampore-076617 at 11:42. Met unknown individual. Subject appeared to be scanning surroundings.",
+    "officer": "SI Ethan Buch, AHTU Tela",
+    "vehicle_used": "KA-13-MS-1444 (white Bolero)"
+  },
+  {
+    "date": "2023-05-19",
+    "time": "19:00-11:03",
+    "location": "H.No. 249, Nair, Kavali 789611, Maharashtra",
+    "subject": "Qushi Seth",
+    "description": "Subject observed at H.No. 76\nChandran Marg\nPurnia-452711 at 11:13. Met unknown individual. Subject made multiple phone calls.",
+    "officer": "Insp. Girik Sankaran, CID Maha",
+    "vehicle_used": "RJ-42-CP-1317 (white Innova)"
+  },
+  {
+    "date": "2023-08-18",
+    "time": "07:00-07:48",
+    "location": "809\nNarayan Circle\nBulandshahr 604945, Uttar Pradesh",
+    "subject": "Yashica Kala",
+    "description": "Subject observed at 158\nContractor Path\nChapra-689980 at 09:12. Travelled by foot. Subject appeared to be scanning surroundings.",
+    "officer": "Insp. Ayush Gole, CID Biha",
+    "vehicle_used": "KA-37-OW-5198 (black i20)"
+  },
+  {
+    "date": "2024-09-12",
+    "time": "08:00-11:19",
+    "location": "H.No. 50\nDhar Street, Coimbatore 018366, Uttar Pradesh",
+    "subject": "Harita Dugar",
+    "description": "Subject observed at 59/910\nDugar Street, Jodhpur 767976 at 06:59. Used public transport. Subject met with 2 unknown persons.",
+    "officer": "Insp. Tanveer Vala, Crime Branch Utta",
+    "vehicle_used": "KA-98-UH-2669 (black Scorpio)"
+  },
+  {
+    "date": "2023-05-04",
+    "time": "06:00-17:34",
+    "location": "14\nSur\nRanchi 690034, Madhya Pradesh",
+    "subject": "Laksh Kumer",
+    "description": "Subject observed at H.No. 076\nDayal Street, Katihar 885160 at 11:04. Used public transport. No suspicious activity observed.",
+    "officer": "SI Anirudh Sharaf, CID Utta",
+    "vehicle_used": "UP-91-OW-3506 (red i20)"
+  },
+  {
+    "date": "2024-06-18",
+    "time": "13:00-23:49",
+    "location": "69/66\nContractor Road\nJaipur 297516, Delhi",
+    "subject": "Yagnesh Sarin",
+    "description": "Subject observed at 45, Nath Ganj, Solapur-883552 at 12:52. Used public transport. Subject made multiple phone calls.",
+    "officer": "SI Harshil Dhingra, AHTU Maha",
+    "vehicle_used": "RJ-41-YO-7209 (black Swift)"
+  },
+  {
+    "date": "2024-05-21",
+    "time": "15:00-11:31",
+    "location": "921, Tak Street, Phusro 995527, Maharashtra",
+    "subject": "Upasna Sathe",
+    "description": "Subject observed at 05/81\nShenoy Road, Agra 541199 at 18:16. Used public transport. Subject made multiple phone calls.",
+    "officer": "SI Turvi Barman, Crime Branch West",
+    "vehicle_used": "KA-11-QG-2402 (silver Bolero)"
+  },
+  {
+    "date": "2024-05-15",
+    "time": "12:00-21:41",
+    "location": "H.No. 97, Dora Circle, Hospet-518203, Bihar",
+    "subject": "Reva Viswanathan",
+    "description": "Subject observed at H.No. 46\nNigam Marg\nThanjavur-518644 at 13:50. Travelled by foot. No suspicious activity observed.",
+    "officer": "Insp. Gauri Bumb, CID Biha",
+    "vehicle_used": "UP-94-SL-8753 (black Bolero)"
+  },
+  {
+    "date": "2024-07-17",
+    "time": "15:00-17:44",
+    "location": "H.No. 62\nChad\nKaraikudi-528168, Madhya Pradesh",
+    "subject": "Andrew Patil",
+    "description": "Subject observed at 573, Devan Ganj, Solapur 188805 at 10:16. Used private vehicle. No suspicious activity observed.",
+    "officer": "SI Krisha Dube, CID Utta",
+    "vehicle_used": "KA-98-FG-4545 (red Innova)"
+  }
+]
