@@ -1,0 +1,72 @@
+[
+  {
+    "id": "P001",
+    "type": "PERSON",
+    "attributes": {"name": "Rahul Mehta", "age": 34, "gender": "M", "city": "Mumbai"},
+    "source_tags": ["call_detail_records", "fraud_complaints"],
+    "first_seen": "2024-06-15T08:30:00Z"
+  },
+  {
+    "id": "P002",
+    "type": "PERSON",
+    "attributes": {"name": "Priya Sharma", "age": 28, "gender": "F", "city": "Delhi"},
+    "source_tags": ["bank_transactions", "social_media"],
+    "first_seen": "2024-07-01T10:00:00Z"
+  },
+  {
+    "id": "P003",
+    "type": "PERSON",
+    "attributes": {"name": "Vikram Singh", "age": 41, "gender": "M", "city": "Jaipur"},
+    "source_tags": ["vehicle_registration", "incident_firs"],
+    "first_seen": "2024-05-20T14:15:00Z"
+  },
+  {
+    "id": "P004",
+    "type": "PERSON",
+    "attributes": {"name": "Anita Desai", "age": 52, "gender": "F", "city": "Mumbai"},
+    "source_tags": ["fraud_complaints"],
+    "first_seen": "2024-08-10T09:45:00Z"
+  },
+  {
+    "id": "P005",
+    "type": "PERSON",
+    "attributes": {"name": "Sonal Kapoor", "age": 31, "gender": "F", "city": "Delhi"},
+    "source_tags": ["call_detail_records", "social_media"],
+    "first_seen": "2024-06-28T11:20:00Z"
+  },
+  {
+    "id": "V001",
+    "type": "VEHICLE",
+    "attributes": {"registration": "MH-12-AB-1234", "make": "Maruti Suzuki", "model": "Swift"},
+    "source_tags": ["vehicle_registration"],
+    "first_seen": "2024-04-01T00:00:00Z"
+  },
+  {
+    "id": "L001",
+    "type": "LOCATION",
+    "attributes": {"name": "Andheri East Office", "lat": 19.1197, "lon": 72.8464, "city": "Mumbai"},
+    "source_tags": ["cell_tower_logs"],
+    "first_seen": "2024-06-15T08:00:00Z"
+  },
+  {
+    "id": "ORG001",
+    "type": "ORG",
+    "attributes": {"name": "QuickCash Finance Pvt Ltd", "type": "NBFC", "city": "Delhi"},
+    "source_tags": ["fraud_complaints", "bank_transactions"],
+    "first_seen": "2024-03-01T00:00:00Z"
+  },
+  {
+    "id": "A001",
+    "type": "ACCOUNT",
+    "attributes": {"bank": "HDFC", "number_masked": "XXXX-XXXX-4589", "type": "savings"},
+    "source_tags": ["bank_transactions"],
+    "first_seen": "2024-07-01T10:00:00Z"
+  },
+  {
+    "id": "A002",
+    "type": "ACCOUNT",
+    "attributes": {"bank": "SBI", "number_masked": "XXXX-XXXX-7712", "type": "current"},
+    "source_tags": ["bank_transactions"],
+    "first_seen": "2024-05-15T00:00:00Z"
+  }
+]

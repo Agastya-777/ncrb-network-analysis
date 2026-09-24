@@ -1,0 +1,110 @@
+[
+  {
+    "source_id": "P001",
+    "target_id": "P002",
+    "type": "CALLED",
+    "timestamp": "2024-07-03T14:22:00Z",
+    "source_tag": "call_detail_records",
+    "weight": 1.0,
+    "metadata": {"duration_sec": 245}
+  },
+  {
+    "source_id": "P001",
+    "target_id": "P005",
+    "type": "CALLED",
+    "timestamp": "2024-07-05T09:10:00Z",
+    "source_tag": "call_detail_records",
+    "weight": 1.0,
+    "metadata": {"duration_sec": 112}
+  },
+  {
+    "source_id": "P002",
+    "target_id": "P005",
+    "type": "COMMUNICATED_WITH",
+    "timestamp": "2024-07-06T16:45:00Z",
+    "source_tag": "social_media",
+    "weight": 1.0,
+    "metadata": {"platform": "WhatsApp"}
+  },
+  {
+    "source_id": "P002",
+    "target_id": "A001",
+    "type": "TRANSACTED_WITH",
+    "timestamp": "2024-07-02T11:00:00Z",
+    "source_tag": "bank_transactions",
+    "weight": 1.0,
+    "metadata": {"amount_inr": 85000}
+  },
+  {
+    "source_id": "P002",
+    "target_id": "ORG001",
+    "type": "ASSOCIATED_WITH",
+    "timestamp": "2024-07-01T10:00:00Z",
+    "source_tag": "fraud_complaints",
+    "weight": 1.0,
+    "metadata": {"role": "employee"}
+  },
+  {
+    "source_id": "P001",
+    "target_id": "V001",
+    "type": "OWNS_VEHICLE",
+    "timestamp": "2024-04-01T00:00:00Z",
+    "source_tag": "vehicle_registration",
+    "weight": 1.0,
+    "metadata": {}
+  },
+  {
+    "source_id": "P001",
+    "target_id": "L001",
+    "type": "LOCATED_AT",
+    "timestamp": "2024-06-15T08:30:00Z",
+    "source_tag": "cell_tower_logs",
+    "weight": 1.0,
+    "metadata": {"dwell_min": 480}
+  },
+  {
+    "source_id": "P003",
+    "target_id": "V001",
+    "type": "ASSOCIATED_WITH",
+    "timestamp": "2024-05-20T14:15:00Z",
+    "source_tag": "incident_firs",
+    "weight": 1.0,
+    "metadata": {"context": "witness"}
+  },
+  {
+    "source_id": "P003",
+    "target_id": "A002",
+    "type": "TRANSACTED_WITH",
+    "timestamp": "2024-05-25T13:30:00Z",
+    "source_tag": "bank_transactions",
+    "weight": 1.0,
+    "metadata": {"amount_inr": 120000}
+  },
+  {
+    "source_id": "P004",
+    "target_id": "P001",
+    "type": "ASSOCIATED_WITH",
+    "timestamp": "2024-08-10T09:45:00Z",
+    "source_tag": "fraud_complaints",
+    "weight": 1.0,
+    "metadata": {"context": "co-accused"}
+  },
+  {
+    "source_id": "P004",
+    "target_id": "ORG001",
+    "type": "APPEARS_IN_INCIDENT",
+    "timestamp": "2024-08-12T17:00:00Z",
+    "source_tag": "fraud_complaints",
+    "weight": 1.0,
+    "metadata": {"incident_type": "fraud"}
+  },
+  {
+    "source_id": "P003",
+    "target_id": "L001",
+    "type": "LOCATED_AT",
+    "timestamp": "2024-05-20T15:00:00Z",
+    "source_tag": "cell_tower_logs",
+    "weight": 1.0,
+    "metadata": {"dwell_min": 30}
+  }
+]

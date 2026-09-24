@@ -1,0 +1,8 @@
+pandas>=2.2.0
+Faker>=24.0.0
+anthropic>=0.34.0
+recordlinkage>=0.16
+networkx>=3.3
+python-louvain>=0.16
+streamlit>=1.38.0
+pyvis>=0.3.2
