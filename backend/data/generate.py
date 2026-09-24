@@ -233,7 +233,7 @@ def _generate_fir(count: int) -> list[dict]:
             "police_station": "Lajpat Nagar PS, New Delhi",
             "district": "South Delhi",
             "state": "Delhi",
-            " complainant": "Ramesh Kumar (father of victim)",
+            "complainant": "Ramesh Kumar (father of victim)",
             "accused": "Vikram Patel, Anil Kumar",
             "ipc_sections": "366-A, 370, 120-B IPC",
             "crime_type": "Kidnapping and Trafficking",
@@ -709,7 +709,7 @@ def _generate_intel(count: int) -> list[dict]:
             "narrative": (
                 "Intelligence indicates an organized trafficking network operating "
                 "between Delhi, Lucknow, and Jaipur. Key operatives identified: "
-                "Vikram Patel (Delhi, 9876543210) —疑似ringleader; Anil Kumar "
+                "Vikram Patel (Delhi, 9876543210) — suspected ringleader; Anil Kumar "
                 "(Jaipur, 9876543211) — recruiter; Deepak Singh (Lucknow, 9876543212) — "
                 "transporter. Financial trail shows regular transfers between linked "
                 "accounts. Ring uses multiple phone numbers and burner phones. "
